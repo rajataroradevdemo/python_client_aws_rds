@@ -1,0 +1,7 @@
+{
+    "host": "your-rds-endpoint.region.rds.amazonaws.com",
+    "database": "employee_db",
+    "username": "your_username",
+    "password": "your_password",
+    "port": 3306
+}
